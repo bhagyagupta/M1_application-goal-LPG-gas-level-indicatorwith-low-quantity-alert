@@ -1,1 +1,24 @@
+India runs one of the largest Immunization programme in the world, catering to the vaccination needs of more than 26 million newborns and 29 million pregnant women. The programme mechanisms are being strengthened / geared up to effectively cater to the country's large and diverse population.
+Due to multiple input and output commands on the server, it resulted in several slow running issues and crashes. The Aadhar details were used to allot the vaccines and hence it operated on a central server. To avoid the use of central server for all commmands, a local server will be loaded with the vaccine-registered data. Local verification and completion of vaccination data will be processed locally and will be loaded back to the main server by the end of day.The local server must store the data of around 100 people where the allocated online registration data will be loaded onto the local server of that local centre. Verification of the data is done based on the details provided by the patient. Once completed, the data of the vaccinated will be sent back for future use and reference.
+ADVANTAGES
+Smoother data handling.
+Pre data readily available for verification.
+Flexibility to add new registrations limited with server alloted memory.
+DISADVANTAGES
+Cannot add large number of new registrations due to local server limitations.
+Encryption is not enabled to protect the data.
+OTP verification is not activated for new registrations.
+SWOT ANALYSIS
+STRENGTH
+(i) Creating a database to vaccinate people based on AADHAR.
+(ii) Local vaccine centrer database enabling smoother operation.
+(iii) Recorded data is sent to main central database for future suggestions.
+WEAKNESSES
+(i) Aadhar linked phone number database not available.
+(ii) OTP generation for verification is absent.
+(iii) Credential validity verification is absent.
+OPPORTUNITIES
+(i) Tracking to determine the pace of vaccine deployment.
+THREATS
+(i) Requires personal data of people and encryption of the data is not enabled in this 
 
