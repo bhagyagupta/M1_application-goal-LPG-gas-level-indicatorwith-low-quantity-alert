@@ -1,5 +1,5 @@
 # M1_miniproject_vaccineregestrationsystem
-# Requrientments
+# Requirement
 # Introduction
 # Advantages
 # Disadvantages
