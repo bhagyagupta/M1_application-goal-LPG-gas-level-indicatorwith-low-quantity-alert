@@ -1,5 +1,5 @@
 
-# VACCINE REGESTRATION SYSTM
+# VACCINE REGESTRATION SYSTEM
 
 # Introduction
 India runs one of the largest Immunization programme in the world, catering to the vaccination needs of more than 26 million newborns and 29 million pregnant women. The programme mechanisms are being strengthened / geared up to effectively cater to the country's large and diverse population.
